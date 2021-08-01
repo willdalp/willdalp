@@ -20,3 +20,7 @@
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdalp&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+
+  ##
+  
+> “Nunca se compare com ninguém neste mundo. Caso o faça, entenda que você estará insultando a si mesmo.” - Bill Gates
