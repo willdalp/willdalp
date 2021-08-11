@@ -24,4 +24,5 @@
   ##
   
 > “Nunca se compare com ninguém neste mundo. Caso o faça, entenda que você estará insultando a si mesmo.” - Bill Gates
-  “A persistência é muito importante, você não deve desistir a menos que não tenha outra escolha.” - Elon Musk
+  ##
+>“A persistência é muito importante, você não deve desistir a menos que não tenha outra escolha.” - Elon Musk
