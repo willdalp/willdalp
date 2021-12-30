@@ -4,7 +4,7 @@
 
 - 👨‍💻 Soon my portfolio with all projects [coming soon]()
 
-- 💬 skills in **HTML, CSS, JAVASCRIPT AND PYTHON**
+- 💬 skills in **HTML, CSS, JAVASCRIPT, C AND PYTHON**
 
 - ⚡ **Always learning and evolving**
 
